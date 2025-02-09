@@ -1,8 +1,8 @@
-# PRS_LDL_ethnicity
+# PRS_LDL_ancestry
 Considering Scaled LDL PRS on CAD with Bayesian Analysis
 
 
-Here we show the analysis for Urbut et al. Within you can find the detailed results on ethnicity specific LDL-PRS association with CAD across cohorts and ethnicities.
+Here we show the analysis for Urbut et al. Within you can find the detailed results on ethnicity specific LDL-PRS association with CAD across cohorts and ancestries.
 
 
 
